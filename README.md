@@ -11,3 +11,6 @@ B = 255 * (1-Y) * (1-K)
 
 ## Dependencies
 - raylib
+
+## License
+This project is WTFPL-licensed.
